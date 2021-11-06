@@ -1,0 +1,35 @@
+/*@keyframes visibility_hidden {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.visibility_hidden {
+  animation: visibility_hidden 1s;
+  visibility: hidden;
+}
+
+@keyframes visibility_visible {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.visibility_visible {
+  animation: visibility_visible 1s;
+  visibility: visible;
+}*/
+
+.visibility_hidden {
+  visibility: hidden;
+}
+
+.visibility_visible {
+  visibility: visible;
+}

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Audrey';
+    src: url('Audrey-Normal.eot');
+    src: local('Audrey Normal'), local('Audrey-Normal'),
+        url('Audrey-Normal.eot?#iefix') format('embedded-opentype'),
+        url('Audrey-Normal.woff2') format('woff2'),
+        url('Audrey-Normal.woff') format('woff'),
+        url('Audrey-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

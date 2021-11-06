@@ -1,0 +1,140 @@
+.app {
+  background-color: black;
+  z-index: -1;
+  min-height: 150vh;
+  overflow: hidden;
+}
+
+.app__column {
+  margin: auto;
+  width: 1440px;
+  position: relative;
+  z-index: 0;
+}
+
+@keyframes app__components_open {
+  0% {
+    transform: translate(2000px, 0);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+.app__components {
+  transition: 1s;
+}
+
+.app__components_transition_delay {
+  transition-delay: 0.75s;
+}
+
+.app__menu {
+  position: absolute;
+  top: 397px;
+  left: 75px;
+  display: grid;
+  grid-template-columns: max-content;
+  row-gap: 20px;
+  transition: 1s;
+}
+
+@keyframes app__menu-link_open {
+  0% {
+    transform: translate(2000px, 0);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+@keyframes app__menu-link_close {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(750px, 0);
+  }
+}
+
+.app__menu-link {
+  font-family: Audrey, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  line-height: 46px;
+  text-align: start;  
+}
+
+.app__menu-open {
+  position: absolute;
+  top: 30px;
+  right: 24px;
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 1s;
+}
+
+.app__menu-open-point {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #B68F33;
+  margin-right: 7px;
+}
+
+.app__menu-open-text {
+  font-family: Audrey, Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+}
+
+.app__menu-close {
+  position: absolute;
+  top: 31px;
+  right: 46px;
+  width: 56px;
+  height: 56px;
+  background-color: #B68F33;
+  border-radius: 100%;
+  box-sizing: border-box;
+  display: grid;
+  transition: 1s;
+}
+
+.app__menu-close-img {
+  box-sizing: border-box;
+  align-self: center;
+  justify-self: center;
+  width: 28px;
+  height: 28px;
+}
+
+.app__logo {
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  height: 101px;
+}
+
+@keyframes ellipse {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.app__ellipse {
+  position: absolute;
+  top: 267px;
+  left: 637px;
+  animation: ellipse 180s forwards infinite;
+  z-index: -1;
+}
