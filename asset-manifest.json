@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.33991137.chunk.css",
-    "main.js": "./static/js/main.d1c2a7a2.chunk.js",
-    "main.js.map": "./static/js/main.d1c2a7a2.chunk.js.map",
+    "main.css": "./static/css/main.0019e125.chunk.css",
+    "main.js": "./static/js/main.78030d09.chunk.js",
+    "main.js.map": "./static/js/main.78030d09.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.448d8b48.js",
     "runtime-main.js.map": "./static/js/runtime-main.448d8b48.js.map",
     "static/js/2.429e29bb.chunk.js": "./static/js/2.429e29bb.chunk.js",
@@ -10,17 +10,16 @@
     "static/js/3.8763ef65.chunk.js": "./static/js/3.8763ef65.chunk.js",
     "static/js/3.8763ef65.chunk.js.map": "./static/js/3.8763ef65.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.33991137.chunk.css.map": "./static/css/main.33991137.chunk.css.map",
+    "static/css/main.0019e125.chunk.css.map": "./static/css/main.0019e125.chunk.css.map",
     "static/js/2.429e29bb.chunk.js.LICENSE.txt": "./static/js/2.429e29bb.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/Inter.var.a738a131.woff2",
-    "static/media/close_white.a37f25ca.svg": "./static/media/close_white.a37f25ca.svg",
-    "static/media/ellipse.0a4dceb9.png": "./static/media/ellipse.0a4dceb9.png",
-    "static/media/zeppelin-logo.19af565e.png": "./static/media/zeppelin-logo.19af565e.png"
+    "static/media/close_black.141778d0.svg": "./static/media/close_black.141778d0.svg",
+    "static/media/zeppelin-logo_white.27103e09.png": "./static/media/zeppelin-logo_white.27103e09.png"
   },
   "entrypoints": [
     "static/js/runtime-main.448d8b48.js",
     "static/js/2.429e29bb.chunk.js",
-    "static/css/main.33991137.chunk.css",
-    "static/js/main.d1c2a7a2.chunk.js"
+    "static/css/main.0019e125.chunk.css",
+    "static/js/main.78030d09.chunk.js"
   ]
 }
