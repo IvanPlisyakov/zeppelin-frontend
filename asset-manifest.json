@@ -1,31 +1,35 @@
 {
   "files": {
-    "main.css": "./static/css/main.431651a7.chunk.css",
-    "main.js": "./static/js/main.480670ba.chunk.js",
-    "main.js.map": "./static/js/main.480670ba.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.a8544579.js",
-    "runtime-main.js.map": "./static/js/runtime-main.a8544579.js.map",
-    "static/js/2.241655e5.chunk.js": "./static/js/2.241655e5.chunk.js",
-    "static/js/2.241655e5.chunk.js.map": "./static/js/2.241655e5.chunk.js.map",
-    "static/js/3.dea3d519.chunk.js": "./static/js/3.dea3d519.chunk.js",
-    "static/js/3.dea3d519.chunk.js.map": "./static/js/3.dea3d519.chunk.js.map",
+    "main.css": "./static/css/main.7c342b94.chunk.css",
+    "main.js": "./static/js/main.ca909b2e.chunk.js",
+    "main.js.map": "./static/js/main.ca909b2e.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ddd9abcf.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ddd9abcf.js.map",
+    "static/js/2.08308e24.chunk.js": "./static/js/2.08308e24.chunk.js",
+    "static/js/2.08308e24.chunk.js.map": "./static/js/2.08308e24.chunk.js.map",
+    "static/js/3.76240eb6.chunk.js": "./static/js/3.76240eb6.chunk.js",
+    "static/js/3.76240eb6.chunk.js.map": "./static/js/3.76240eb6.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.431651a7.chunk.css.map": "./static/css/main.431651a7.chunk.css.map",
-    "static/js/2.241655e5.chunk.js.LICENSE.txt": "./static/js/2.241655e5.chunk.js.LICENSE.txt",
+    "static/css/main.7c342b94.chunk.css.map": "./static/css/main.7c342b94.chunk.css.map",
+    "static/js/2.08308e24.chunk.js.LICENSE.txt": "./static/js/2.08308e24.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/Inter.var.a738a131.woff2",
+    "static/media/clients_test_1.png": "./static/media/clients_test_1.abd44474.png",
+    "static/media/clients_test_2.png": "./static/media/clients_test_2.fb126a15.png",
     "static/media/close_black.141778d0.svg": "./static/media/close_black.141778d0.svg",
     "static/media/experience.60e16899.png": "./static/media/experience.60e16899.png",
     "static/media/facebook.e4f8060a.svg": "./static/media/facebook.e4f8060a.svg",
     "static/media/instagram.b4e5de7e.svg": "./static/media/instagram.b4e5de7e.svg",
+    "static/media/logo_white.8a59ced0.svg": "./static/media/logo_white.8a59ced0.svg",
     "static/media/mail.b817cb8a.svg": "./static/media/mail.b817cb8a.svg",
     "static/media/menu.84efb03c.png": "./static/media/menu.84efb03c.png",
     "static/media/phone.f4daa1d3.svg": "./static/media/phone.f4daa1d3.svg",
-    "static/media/zeppelin-logo_white.27103e09.png": "./static/media/zeppelin-logo_white.27103e09.png"
+    "static/media/zeppelin-logo_white.27103e09.png": "./static/media/zeppelin-logo_white.27103e09.png",
+    "static/media/zeppelin.2a7bd2a1.png": "./static/media/zeppelin.2a7bd2a1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a8544579.js",
-    "static/js/2.241655e5.chunk.js",
-    "static/css/main.431651a7.chunk.css",
-    "static/js/main.480670ba.chunk.js"
+    "static/js/runtime-main.ddd9abcf.js",
+    "static/js/2.08308e24.chunk.js",
+    "static/css/main.7c342b94.chunk.css",
+    "static/js/main.ca909b2e.chunk.js"
   ]
 }
